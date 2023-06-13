@@ -1,0 +1,2 @@
+pub const PLAYER_SPEED: f32 = 12.0;
+pub const FRICTION_COEFFICIENT: f32 = 100.0;
